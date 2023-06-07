@@ -1,2 +1,2 @@
-0x00-shell_basics
-My first script
+#!/bin/bash
+pwd
